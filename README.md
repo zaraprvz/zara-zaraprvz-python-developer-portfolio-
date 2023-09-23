@@ -17,7 +17,7 @@ Learning Knowledge
 related tools
 ● Knowledge of data structures and
 algorithm
-  sOFT SKILLS
+  Soft Skills
   problem - solver
   hands-on
   integrity
