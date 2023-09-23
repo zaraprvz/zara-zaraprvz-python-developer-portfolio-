@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zaraprvz
+- 👋 Hi, I’m @zaraprvz 
 - 👀 I’m interested in 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently seeking entry -level python developer job 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
