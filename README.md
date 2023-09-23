@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaraprvz 
-- 👀 I’m interested in 
+- 👀 I’m interested in Data Science , AL and Machine learning
 - 🌱 I’m currently seeking entry -level python developer job 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
