@@ -17,12 +17,12 @@ Learning Knowledge
 related tools
 ● Knowledge of data structures and
 algorithm
-  Soft Skills
-  problem - solver
-  hands-on
-  integrity
-  team player
-  communication
+  Soft Skills/
+  problem - solver/
+  hands-on/
+  integrity/
+  team player/
+  communication/
   self-motivated
   
 
